@@ -1,4 +1,5 @@
 #after any changes to the Gemfile, execute bundle update!
+gem "jekyll-agency"
 source "https://rubygems.org"
 gemspec
 
